@@ -82,7 +82,7 @@ In the design:
 
 ```bash
 # Clone this repository
-git clone [ttps://github.com/your‐username/your‐portfolio.git](https://github.com/AniketFirke/My-Portfolio-)
+git clone https://github.com/AniketFirke/My-Portfolio-
 cd My‐portfolio
 
 # Install dependencies
