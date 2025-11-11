@@ -29,7 +29,7 @@ The design is clean, responsive, and modern — enabling visitors (such as recru
 
 ## Demo / Live Site
 
-> [Insert link to deployed site (e.g., `https://your‐domain.com`)](https://cinch-revamp-60906406.figma.site)
+> [Insert link to deployed site ](https://cinch-revamp-60906406.figma.site)
 
 ---
 <img width="1890" height="826" alt="image" src="https://github.com/user-attachments/assets/ff760f58-5dca-4109-af1f-e49c715caaa3" />
